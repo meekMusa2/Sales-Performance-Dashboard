@@ -69,37 +69,26 @@ Geographic and customer breakdown
 
 ---
 
-## 📁 Repository Structure
-
-```
-sales-performance-dashboard/
-│
-├── screenshots/
-│   ├── cover_page.png
-│   ├── page1_overview.png
-│   ├── page2_product_analysis.png
-│   └── page3_regional_customer.png
-│
-├── data/
-│   └── superstore_dataset.xlsx
-│
-└── README.md
-```
-
----
-
 ## 📸 Dashboard Screenshots
 
 ### Cover Page
+<img width="1920" height="1032" alt="Welcome" src="https://github.com/user-attachments/assets/aa045e48-3b95-402c-a3ca-aea25ed65611" />
+
 
 
 ### Page 1 — Overview
+<img width="1920" height="1032" alt="Overview" src="https://github.com/user-attachments/assets/610197c9-58d7-4d18-b439-8d2f34096658" />
+
 
 
 ### Page 2 — Product Analysis
+<img width="1920" height="1032" alt="Product Analysis" src="https://github.com/user-attachments/assets/2a3eed3b-d001-42b5-b960-091a0e4c7178" />
+
 
 
 ### Page 3 — Regional & Customer Analysis
+<img width="1920" height="1032" alt="R   C Analysis" src="https://github.com/user-attachments/assets/c29c6e85-848e-4276-9029-b2f4d7b46405" />
+
 
 
 ---
